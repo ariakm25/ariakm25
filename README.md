@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=ariakm25&show_icons=true)
 <!--
 **ariakm25/ariakm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
