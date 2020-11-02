@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript, Dart, GO, PHP & Java.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariakm25)](https://github.com/ryo-ma/github-profile-trophy)
-![github stats](https://github-readme-stats.vercel.app/api?username=ariakm25&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ariakm25&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ariakm25/ariakm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
