@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript, Dart, GO, PHP & Java.
-![ariakm25](https://count.getloli.com/get/@ariakm25?theme=rule34)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariakm25&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![ariakm25](https://count.getloli.com/get/@ariakm25?theme=rule34)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ariakm25&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
