@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariakm25&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ariakm25 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ariakm25&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![ariakm25](https://count.getloli.com/get/@ariakm25?theme=rule34)
 
 <!--
